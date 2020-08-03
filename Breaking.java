@@ -27,7 +27,7 @@ public class Breaking {
             i++;
         }
         System.out.println("Splitted Digits");
-        for(int j=i-1;j>0;j--)
+        for(int j=i-1;j>=0;j--)
             System.out.println(a[j]);
        
         }
